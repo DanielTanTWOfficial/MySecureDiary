@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Secure Diary</string>
+    <string name="_2017">2017</string>
+    <string name="september_20">September 20</string>
+    <string name="save">Save</string>
+    <string name="create_new_diary_entry">Create New Diary Entry</string>
+    <string name="view_previous_entries">View Previous Entries</string>
+    <string name="textview">TextView</string>
+    <string name="no_account_yet_click_here">No Account Yet? Click Here!</string>
+    <string name="string_no_account_yet_click_here" />
+    <string name="login">Login</string>
+    <string name="no_account">No Account Yet? Click Here!</string>
+    <string name="password">Password</string>
+    <string name="passwordd">Password:</string>
+    <string name="username">Username</string>
+    <string name="usernamee">Username:</string>
+    <string name="login_and_change_password">Login and change password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="reset">Reset</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="confirm">Confirm</string>
+    <string name="new_password">New Password:</string>
+    <string name="new_passwordd">New Password</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="text_view">Text View</string>
+</resources>
